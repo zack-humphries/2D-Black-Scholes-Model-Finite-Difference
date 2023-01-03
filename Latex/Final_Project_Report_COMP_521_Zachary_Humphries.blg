@@ -1,0 +1,17 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Final_Project_Report_COMP_521_Zachary_Humphries.blg'
+[278] biber-MSWIN64:340> INFO - === 
+[388] Biber.pm:418> INFO - Reading 'Final_Project_Report_COMP_521_Zachary_Humphries.bcf'
+[581] Biber.pm:978> INFO - Found 1 citekeys in bib section 0
+[604] Biber.pm:4401> INFO - Processing section 0
+[624] Biber.pm:4592> INFO - Looking for bibtex file 'source2.bib' for section 0
+[711] bibtex.pm:1713> INFO - LaTeX decoding ...
+[727] bibtex.pm:1518> INFO - Found BibTeX data source 'source2.bib'
+[818] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[818] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[818] Biber.pm:4221> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[818] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[821] bbl.pm:654> INFO - Writing 'Final_Project_Report_COMP_521_Zachary_Humphries.bbl' with encoding 'UTF-8'
+[822] bbl.pm:757> INFO - Output to Final_Project_Report_COMP_521_Zachary_Humphries.bbl
+[823] Biber.pm:130> WARN - legacy month field 'Aug' in entry 'sundvall-trang-2014' is not an integer - this will probably not sort properly.
+[823] Biber.pm:132> INFO - WARNINGS: 1
