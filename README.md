@@ -1,5 +1,5 @@
 # 2D-Black-Scholes-Model-Finite-Difference
-Completed December 2022 for COMP 521 at San Diego State University. Calculated using an 2nd-order implicit scheme (only first-order accurate). Coded in MATLAB.
+Completed December 2022 for COMP 521 at San Diego State University. Calculated using an 2nd-order implicit scheme (only first-order accurate). Coded in MATLAB. Full report listed below as a PDF
 
 2D Black Scholes Equation:
 
