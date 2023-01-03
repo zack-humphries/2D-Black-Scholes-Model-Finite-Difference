@@ -11,6 +11,8 @@ Final Project Report:
 [Final_Project_Report_COMP_521_Zachary_Humphries.pdf](https://github.com/zack-humphries/2D-Black-Scholes-Model-Finite-Difference/files/10338789/Final_Project_Report_COMP_521_Zachary_Humphries.pdf)
 
 
+
 Example Result Image:
+
 ![result](https://user-images.githubusercontent.com/121892747/210415852-e3cd8c90-3721-433c-ae4d-a95f97dbf7fe.jpg)
 
